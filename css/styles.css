@@ -1,7 +1,7 @@
 body {
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
   color: #6c757d;
-  background-color: #f8f9fa;
+  background-color: #f9faf8;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -14,7 +14,7 @@ hr {
 }
 
 a {
-  color: #f3a14b;
+  color: #f7bd00;
 }
 a:hover {
   color: #93ada4;
@@ -25,7 +25,7 @@ header.masthead {
   padding-top: 6rem;
   padding-bottom: 3rem;
   text-align: center;
-  background-color: #eadfc9;
+  background-color: #38270579;
   background-repeat: no-repeat;
   background-attachment: scroll;
   background-position: center center;
@@ -34,7 +34,7 @@ header.masthead {
   font-weight: 450;
   font-size: 1.5rem;
   line-height: 1.2;
-  color: #dc7646;
+  color: #b8420c;
 }
 .masthead-full-name {
   font-family: 'Anton', sans-serif;
@@ -42,7 +42,7 @@ header.masthead {
   font-size: 2.75rem;
 }
 .last-name-highlight {
-  color: #f3a14b;
+  color: #eeb61c;
 }
 @media (max-width: 576px) {
   .masthead-full-name {
@@ -53,7 +53,7 @@ header.masthead {
 }
 
 .bg-primary {
-  background-color: #eadfc9 !important;
+  background-color: #c9eacb !important;
 }
 
 .img-profile {
